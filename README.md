@@ -17,8 +17,11 @@
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white)+.
 
 ### 📊 Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IzaiasCLima&show_icons=true&theme=dark&include_all_commits=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IzaiasCLima&layout=compact&theme=dark)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IzaiasCLima&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaiasCLima&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" height="150" />
+</p>
 
 
 ---
