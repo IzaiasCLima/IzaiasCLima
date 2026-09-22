@@ -16,13 +16,6 @@
 ![Scrum](https://img.shields.io/badge/Scrum-004080?style=for-the-badge&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white)+.
 
-### 📊 Estatísticas no GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IzaiasCLima&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaiasCLima&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="150" />
-</p>
-
-
 ---
 
 ### 📌 Projetos em Destaque
